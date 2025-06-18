@@ -47,7 +47,9 @@ Even though both texts convey the same idea—well-trained athletes and proper f
 - **Label 0** reads more like natural speech, with a conversational flow.  
 - **Label 1** is more formal and intense; it “tries too hard” to sound polished, almost condescending.
 
-I’ve noticed that inorganic (AI) text often sounds **formal but not genuine**—it picks stronger words and a more forceful tone. Compare that to what I’m writing now: I’m writing this as I speak aloud, whereas AI just tries to sound like a prick.
+I’ve noticed that inorganic (AI) text sounds a little too **formal but not genuine**—it picks stronger words and a more (I am better than you) tone OR it can sound overly sincere like when you tell if it is wrong. \
+Or when you tell the AI something good and it is overly happy, cringely happy. Im seeing a pattern, AI's text is just taking the tones to the extreme. \
+Compare inorganic t ext to what I’m writing now. I’m writing this as I speak aloud, whereas AI just tries to sound like a prick.
 
 That is my analysis of AI vs. human text—onward and upward!
 
