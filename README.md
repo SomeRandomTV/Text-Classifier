@@ -59,9 +59,11 @@ That is my analysis of AI vs. human text—onward and upward!
 
 Next, we’ll clean the text using the Natural Language Toolkit (`nltk`):
 
-1. Remove stopwords  
-2. Strip noise (punctuation, special characters)  
-3. Normalize case, tokenize, etc.  
+### Stop-Word Removal
 
-And that’s our setup! Let’s dive into coding.
+Stopwords need to be removed as they cause a lot of noise and have no meaning. Some examples of stopwords are: `the`, `a`, `is`, `for`, etc \
+These words are just filler words, they have no definition, they map to nothing in any Vector Space. So we take em out, here is what that looks like \
+
+Before: International sports events require the most well-trained athletes for each country, in order to achieve this goal countries make an effort to build infrastructure designed to train top athletes.
+After: International sports events require well-trained athletes country, order achieve goal countries make effort build infrastructure designed train top athletes. Although policy indeed make fewer sports facilities ordinary people, investing best athletes vital develop competitive sports performances
 
